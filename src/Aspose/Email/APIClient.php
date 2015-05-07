@@ -274,7 +274,7 @@ class APIClient {
             settype($object, $class);
             return $object;
         } else {
-            $class = "Aspose\Barcode\Models\\$class";
+            $class = "Aspose\Email\Models\\$class";
             $instance = new $class(); // this instantiates class named $class
             $classVars = get_class_vars($class);
         }

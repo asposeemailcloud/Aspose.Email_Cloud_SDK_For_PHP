@@ -3,7 +3,7 @@
 namespace Aspose\Email;
 
 use Aspose\Email\AsposeApp;
-use Aspose\Barcode\ApiException as Exception;
+use Aspose\Email\ApiException as Exception;
 
 /**
  * APIClient.php
